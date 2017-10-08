@@ -4,4 +4,5 @@ The idea is from the Neural Network Playground demo created by Google: http://pl
 
 The Vedio of this demo can be accessed here: https://youtu.be/_Fhl6g7-pPY
 
-Python Version needed: Python 3.5+  Python modules needed 1. tensorflow; 2. numpy; 3. matplotlib; 4. numba
+Python Version needed: Python 3.5+  
+Python modules needed 1. tensorflow; 2. numpy; 3. matplotlib; 4. numba
