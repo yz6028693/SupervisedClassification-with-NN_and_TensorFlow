@@ -1,4 +1,4 @@
-This is a small python project using the TensorFlow framework to classify the raster image based on the points data we inputed to the ANN. (Here we input the Archimedean Spiral points)
+This is a small python project using the TensorFlow framework to classify the raster image based on the points we inputed to the ANN as training data. (Here we input the Archimedean Spiral points)
 
 The idea is from the Neural Network Playground demo created by Google: http://playground.tensorflow.org/ I might use a different approach compared their demo.
 
