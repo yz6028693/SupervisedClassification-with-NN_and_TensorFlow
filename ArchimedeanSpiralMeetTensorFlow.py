@@ -91,7 +91,7 @@ class ArchimedeanSpiralMeetTensorFlow(object):
         return TrainingInput, TrainingLabel, TestingInput, TestingLabel
 
 
-    # jit module in numba is to compile python script to C like script for better performance and running speed.
+    # jit module in numba is uesd to compile python script to C like script for better performance and running speed.
     @jit
     def outputArray(self, ClassificationArray):
         OutputArray = np.zeros((600, 600), dtype=np.int)
