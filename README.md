@@ -7,5 +7,5 @@ The Video of this demo can be accessed here: https://youtu.be/_Fhl6g7-pPY
 Python Version needed: Python 3.5+  
 Python modules needed 1. tensorflow; 2. numpy; 3. matplotlib; 4. numba
 
-<a><img src="https://drive.google.com/file/d/1WcIaCy1Y8j5ps1QUPOrSNk0NuvXTpRhW/view?usp=sharing"></a>
+<a><img src="https://drive.google.com/open?id=1WcIaCy1Y8j5ps1QUPOrSNk0NuvXTpRhW"></a>
 
