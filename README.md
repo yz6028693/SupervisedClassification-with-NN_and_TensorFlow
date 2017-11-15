@@ -7,4 +7,4 @@ The Video of this demo can be accessed here: https://youtu.be/_Fhl6g7-pPY
 Python Version needed: Python 3.5+  
 Python modules needed 1. tensorflow; 2. numpy; 3. matplotlib; 4. numba
 
-<a href="https://imgflip.com/gif/1zed9p"><img src="https://i.imgflip.com/1zed9p.gif" title="made at imgflip.com"/></a>
+<a href="#"><img src="https://i.imgflip.com/1zed9p.gif" title="made at imgflip.com"/></a>
